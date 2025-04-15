@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ready-oun/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/ready-oun/LeetCode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ready-oun/LeetCode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ready-oun/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
